@@ -3,6 +3,6 @@ Front-End Example
 
 [visit site](https://iva-yorgova.github.io/Events-website/ target=_blank)
 
-[Google](https://google.com" target="_blank)
+[Google](https://google.com target="_blank")
 
 
