@@ -1,8 +1,8 @@
 # Events-website
 Front-End Example 
 
-[visit site](https://iva-yorgova.github.io/Events-website/ target=_blank)
+[visit site](https://iva-yorgova.github.io/Events-website/)
 
-[Google](https://google.com target="_blank")
+[Link](https://example.org/](https://iva-yorgova.github.io/Events-website/ "title" target="_blank")
 
 
