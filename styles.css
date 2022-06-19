@@ -248,6 +248,7 @@ ul {
     line-height: 25px;
     display: flex;
     gap: 30px;
+    flex-wrap: wrap;
 }
 
 .main .left .image {
@@ -282,4 +283,10 @@ ul {
         font-size: 10px;
         padding: 0px 7px 0px 7px;
     }
+}
+
+@media screen and (max-width:480px) {
+    .main .left .image img {
+        float: none;
+      }
 }
